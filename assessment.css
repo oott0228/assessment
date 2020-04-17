@@ -1,0 +1,25 @@
+body {
+  background-color: #04A6EB;
+  color: #FDFFFF;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+button {
+  padding: 5px 20px;
+  background-color: #337AB7;
+  border-style: none;
+  color: #FDFFFF;
+}
+
+input {
+  height: 20px;
+}
+
+
+/* カラーコード一覧と検索するとカラーコードがでてくる。また、カラーピッカーで検索すると、Webサイトから画像から16進数カラーコードを取得するソフトウェアが見つかる。 */
+/* プロのデザイナーが手掛けるようなおしゃれな色使いのサイトを作りたいときは、配色理論や色彩調和論に基づいた色選びをする必要がある。 */
+/* カラースキームで検索するとcoolors.coのような配色理論などに基づいた色の組み合わせを提案してくれるサイトが見つかる。 */
+
+/* paddingは要素の内側の余白を設定（詰め物をすること）、marginは境界線より外側の余白 */
